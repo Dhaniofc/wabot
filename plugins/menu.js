@@ -47,9 +47,9 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github :
-│ https://github.com/Bebankeluarga/wabot
-│ Instagram :
-│ https://www.instagram.com/bebankeluarga1919199/
+│ https://github.com/Andriiwalker/wabot
+│ Facebook :
+│ https://www.facebook.com/profile.php?id=100023184632187
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
