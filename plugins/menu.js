@@ -46,8 +46,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github :
-│ https://github.com/Andriiwalker/wabot
+│ Link Sc?  : Hubungi Owner wa.me/6283822759168
+│
 │ Facebook :
 │ https://www.facebook.com/profile.php?id=100023184632187
 ╰────
