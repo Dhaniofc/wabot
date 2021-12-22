@@ -46,7 +46,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Link Sc?  : Hubungi Owner wa.me/6283822759168
+│   GROUP BOT OFFICIAL : https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV
 │
 │ Facebook :
 │ https://www.facebook.com/profile.php?id=100023184632187
