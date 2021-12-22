@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • AXIS [083822759168]
-│ • AXIS             [083822759168]
+│ • AXIS [083822759168]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
