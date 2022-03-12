@@ -46,7 +46,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│   GROUP BOT OFFICIAL : https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV
+│   GROUP BOT OFFICIAL : https://chat.whatsapp.com/HBmsxCAsUTEJfQQUc4RUwv
 │
 │ Facebook :
 │ https://www.facebook.com/profile.php?id=100023184632187
